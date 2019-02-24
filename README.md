@@ -1,0 +1,1 @@
+# Kubernetes Custom Resource Definition (CRD) Example
