@@ -1,6 +1,6 @@
 apiVersion: "stable.example.com/v1"
-kind: CronTab
+kind: Pet
 metadata:
   name: foo
 spec:
-  cronSpec: "* * * * */5"
+  petSpec: "this is foo"
